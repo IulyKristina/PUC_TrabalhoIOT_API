@@ -1,0 +1,6 @@
+# Ignora arquivos sensíveis
+Web.secrets
+Web.secrets.config
+*.secrets.config
+*.secrets
+Connection.secrets.config
